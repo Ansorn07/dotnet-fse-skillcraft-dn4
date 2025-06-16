@@ -12,11 +12,6 @@ SingletonPatternExample/
 ├── Logger.java
 └── Main.java
 
-yaml
-Copy
-Edit
-
----
 
 ## 💡 What is the Singleton Pattern?
 
@@ -40,7 +35,7 @@ It is often used for logging, configuration, or caching where having multiple in
 
 ## 🧪 How to Run
 
-```bash
+
 cd src
 javac *.java
 java Main
@@ -48,9 +43,7 @@ java Main
 
 
 ✅ Output:
-sql
-Copy
-Edit
+
 Logger instance created
 Using the same Logger instance
 LOG: Singleton pattern in action.
