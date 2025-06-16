@@ -26,22 +26,30 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 ## 🗂️ Repository Structure
 dotnet-fse-skillcraft-dn4/
 ├── Week-1/
+
 │ ├── Design principles & Patterns/
 │ └── DSA/
 ├── Week-2/
+
 │ ├── AdvancedSQL/
 │ └── UnitTesting/
 ├── Week-3/
+
 │ └── EntityFramework/
 ├── Week-4/
+
 │ └── WebAPI/
 ├── Week-5/
+
 │ └── Microservices/
 ├── Week-6/
+
 │ └── ReactJS/
 ├── Week-7/
+
 │ └── Advanced ReactJS/
 ├── Week-8/
+
 │ └── Git & DevOps/
 └── README.md (you are here)
 
