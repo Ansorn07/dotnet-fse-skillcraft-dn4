@@ -54,11 +54,15 @@ This allows the code to be:
 
 
 cd src
+
 javac *.java
+
 java Main
 
 ✅  Output
 
 Opening Word document.
+
 Opening PDF document.
+
 Opening Excel document.
