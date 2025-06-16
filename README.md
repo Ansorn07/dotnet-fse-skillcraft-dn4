@@ -24,34 +24,44 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 ---
 
 ## 🗂️ Repository Structure
-dotnet-fse-skillcraft-dn4/
-├── Week-1/
 
-│ ├── Design principles & Patterns/
-│ └── DSA/
-├── Week-2/
+📦 dotnet-fse-skillcraft-dn4
+├── 📁 Week-1
+│   ├── 📁 Design principles & Patterns
+│   │   ├── 📁 SingletonPatternExample
+│   │   │   ├── 📁 src
+│   │   │   └── 📄 README.md
+│   │   └── 📁 FactoryMethodPatternExample
+│   │       ├── 📁 src
+│   │       └── 📄 README.md
+│   └── 📁 DSA
+│       ├── 📁 SearchComparison
+│       │   ├── 📄 Product.java
+│       │   ├── 📄 SearchDemo.java
+│       │   └── 📄 README.md
+│       └── 📁 FinancialForecasting
+│           ├── 📄 Forecast.java
+│           └── 📄 README.md
+│
+├── 📁 Week-2
+│   └── 📁 AdvancedSQL
+│       ├── 📁 RankingAndWindowFunctions
+│       │   ├── 📄 ranking_queries.sql
+│       │   └── 📄 README.md
+│       └── (Upcoming: Stored Procedures, Scalar Functions, Indexes)
+│
+├── 📁 Week-3 ➝ Entity Framework Core 8.0 (To be added)
+├── 📁 Week-4 ➝ ASP.NET Core Web API (To be added)
+├── 📁 Week-5 ➝ Microservices with JWT (To be added)
+├── 📁 Week-6 ➝ ReactJS Basics (To be added)
+├── 📁 Week-7 ➝ Advanced ReactJS (To be added)
+├── 📁 Week-8 ➝ Git, Docker, DevOps, GenAI (To be added)
+│
+├── 📄 README.md           ← Overview of entire repo
+└── 📄 LICENSE             ← Apache 2.0 License
 
-│ ├── AdvancedSQL/
-│ └── UnitTesting/
-├── Week-3/
 
-│ └── EntityFramework/
-├── Week-4/
 
-│ └── WebAPI/
-├── Week-5/
-
-│ └── Microservices/
-├── Week-6/
-
-│ └── ReactJS/
-├── Week-7/
-
-│ └── Advanced ReactJS/
-├── Week-8/
-
-│ └── Git & DevOps/
-└── README.md (you are here)
 
 
 
