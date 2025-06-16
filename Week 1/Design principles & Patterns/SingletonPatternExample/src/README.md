@@ -37,7 +37,9 @@ It is often used for logging, configuration, or caching where having multiple in
 
 
 cd src
+
 javac *.java
+
 java Main
 
 
@@ -45,5 +47,7 @@ java Main
 ✅ Output:
 
 Logger instance created
+
 Using the same Logger instance
+
 LOG: Singleton pattern in action.
