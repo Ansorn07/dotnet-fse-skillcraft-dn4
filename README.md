@@ -27,41 +27,62 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 
 ## 🗂️ Repository Structure
 
-📦 **dotnet-fse-skillcraft-dn4**
+This repository is structured week-wise to align with the DotNet Full Stack Engineering (FSE) Deep Skilling Program. Each week contains hands-on exercises grouped by skill.
 
-├── 📁 **Week-1**
-│   ├── 📁 Design principles & Patterns
-│   │   ├── 📁 SingletonPatternExample
-│   │   │   ├── 📁 src
-│   │   │   └── 📄 README.md
-│   │   └── 📁 FactoryMethodPatternExample
-│   │       ├── 📁 src
-│   │       └── 📄 README.md
-│   └── 📁 DSA
-│       ├── 📁 SearchComparison
-│       │   ├── 📄 Product.java
-│       │   ├── 📄 SearchDemo.java
-│       │   └── 📄 README.md
-│       └── 📁 FinancialForecasting
-│           ├── 📄 Forecast.java
-│           └── 📄 README.md
+### 📘 Week 1 – Design Principles & DSA
 
-├── 📁 **Week-2**
-│   └── 📁 AdvancedSQL
-│       ├── 📁 RankingAndWindowFunctions
-│       │   ├── 📄 ranking_queries.sql
-│       │   └── 📄 README.md
-│       └── _(Upcoming: Stored Procedures, Scalar Functions, Indexes)_
+- `Design principles & Patterns/`
+  - `SingletonPatternExample/`
+    - `src/Logger.java`
+    - `src/Main.java`
+    - `README.md` – Explains Singleton Pattern
+  - `FactoryMethodPatternExample/`
+    - `src/*.java` – Implements Factory Method for Word, PDF, Excel documents
+    - `README.md` – Factory pattern explanation and usage
 
-├── 📁 **Week-3** – Entity Framework Core 8.0 *(To be added)*
-├── 📁 **Week-4** – ASP.NET Core Web API *(To be added)*
-├── 📁 **Week-5** – Microservices with JWT *(To be added)*
-├── 📁 **Week-6** – ReactJS Basics *(To be added)*
-├── 📁 **Week-7** – Advanced ReactJS *(To be added)*
-├── 📁 **Week-8** – Git, Docker, DevOps, GenAI *(To be added)*
+- `DSA/`
+  - `SearchComparison/`
+    - `Product.java`, `SearchDemo.java`
+    - `README.md` – Linear vs Binary Search implementation
+  - `FinancialForecasting/`
+    - `Forecast.java`
+    - `README.md` – Recursive logic for future value prediction
 
-├── 📄 README.md – _Repository overview_
-└── 📄 LICENSE – _Apache 2.0 license_
+---
+
+### 📘 Week 2 – Advanced SQL *(In Progress)*
+
+- `AdvancedSQL/`
+  - `RankingAndWindowFunctions/`
+    - `ranking_queries.sql`
+    - `README.md` – Usage of `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`
+  - *(Upcoming)*
+    - Stored Procedures
+    - Scalar Functions
+    - Index Performance
+
+---
+
+### 📘 Week 3 to Week 8 *(Upcoming)*
+
+- `Week-3/` – Entity Framework Core 8.0
+- `Week-4/` – ASP.NET Core Web API
+- `Week-5/` – Microservices using JWT
+- `Week-6/` – ReactJS Front-End
+- `Week-7/` – Advanced ReactJS & State Management
+- `Week-8/` – Git, Docker, CI/CD, DevOps, GenAI
+
+---
+
+### 📄 Root-Level Files
+
+- `README.md` – Overview of the repository and weekly structure
+- `LICENSE` – Apache License 2.0 (open-source usage)
+
+---
+
+> 🧑‍💻 Maintained by [Ansorn07](https://github.com/Ansorn07) | DotNet FSE 4.0 Deep Skilling | 2025
+
 
 
 
