@@ -38,5 +38,4 @@ This week focuses on mastering advanced SQL features critical for backend develo
 
 > ✅ All queries were tested on a simulated employee and product database schema with realistic business cases.
 
----
 
