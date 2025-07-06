@@ -22,53 +22,7 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 - 🐳 Docker & Containerization
 - 🔀 Git & CI/CD (Version Control & DevOps)
 - 🤖 Generative AI Fundamentals
-
----
-
-
-
-- `Design principles & Patterns/`
-  - `SingletonPatternExample/`
-    - `src/Logger.java`
-    - `src/Main.java`
-    - `README.md` – Explains Singleton Pattern
-  - `FactoryMethodPatternExample/`
-    - `src/*.java` – Implements Factory Method for Word, PDF, Excel documents
-    - `README.md` – Factory pattern explanation and usage
-
-- `DSA/`
-  - `SearchComparison/`
-    - `Product.java`, `SearchDemo.java`
-    - `README.md` – Linear vs Binary Search implementation
-  - `FinancialForecasting/`
-    - `Forecast.java`
-    - `README.md` – Recursive logic for future value prediction
-
----
-
-### 📘 Week 2 – Advanced SQL *(In Progress)*
-
-- `AdvancedSQL/`
-  - `RankingAndWindowFunctions/`
-    - `ranking_queries.sql`
-    - `README.md` – Usage of `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`
-  - *(Upcoming)*
-    - Stored Procedures
-    - Scalar Functions
-    - Index Performance
-
----
-
-### 📘 Week 3 to Week 8 *(Upcoming)*
-
-- `Week-3/` – Entity Framework Core 8.0
-- `Week-4/` – ASP.NET Core Web API
-- `Week-5/` – Microservices using JWT
-- `Week-6/` – ReactJS Front-End
-- `Week-7/` – Advanced ReactJS & State Management
-- `Week-8/` – Git, Docker, CI/CD, DevOps, GenAI
-
----
+ 
 
 ### 📄 Root-Level Files
 
@@ -123,7 +77,7 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 🎓 3rd Year CSE Student  
 👨‍💻 GitHub: [Ansorn07](https://github.com/Ansorn07)  
 📌 Project-based learning | GenAI & Full Stack enthusiast  
-🪖 NCC Cadet | Team Lead @ Enactus KIIT
+🪖 NCC Cadet | Ideation Team @ Enactus KIIT
 
 ---
 
