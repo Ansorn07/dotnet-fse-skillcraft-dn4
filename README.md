@@ -32,10 +32,6 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 
 > 🧑‍💻 Maintained by [Ansorn07](https://github.com/Ansorn07) | DotNet FSE 4.0 Deep Skilling | 2025
 
-
-
-
-
 ✅ Each week's folder contains:
 - `README.md` (exercise-wise explanation)
 - Source code files
