@@ -84,4 +84,3 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 ## 📃 License
 
 This project is licensed under the [Apache License 2.0](LICENSE).
-
