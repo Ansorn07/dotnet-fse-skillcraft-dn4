@@ -5,7 +5,6 @@
 Welcome to my curated hands-on repository for the **DotNet Full Stack Engineering (FSE) Deep Skilling Program (DN 4.0)**. This repository is structured week-wise and includes all mandatory exercises covering a wide range of enterprise-grade development topics.
 
 ---
-
 ## 📚 Program Overview
 
 The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path focused on strengthening backend-to-frontend skills. This includes:
