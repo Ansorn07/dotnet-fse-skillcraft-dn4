@@ -39,7 +39,6 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 - Proper version control commit messages
 
 ---
-
 ## 🚀 Progress Tracker
 
 | Week | Skills                             | Status       |
