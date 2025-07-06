@@ -25,11 +25,7 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 
 ---
 
-## 🗂️ Repository Structure
 
-This repository is structured week-wise to align with the DotNet Full Stack Engineering (FSE) Deep Skilling Program. Each week contains hands-on exercises grouped by skill.
-
-### 📘 Week 1 – Design Principles & DSA
 
 - `Design principles & Patterns/`
   - `SingletonPatternExample/`
