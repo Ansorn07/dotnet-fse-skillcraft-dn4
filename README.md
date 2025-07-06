@@ -100,9 +100,9 @@ This repository is structured week-wise to align with the DotNet Full Stack Engi
 | Week | Skills                             | Status       |
 |------|------------------------------------|--------------|
 | 1    | Design Patterns, DSA               | ✅ Completed |
-| 2    | Advanced SQL, NUnit, Moq           | ⏳ In Progress |
-| 3    | Entity Framework Core 8.0          | ⏳ Upcoming |
-| 4    | ASP.NET Core Web API               | ⏳ Upcoming |
+| 2    | Advanced SQL, NUnit, Moq           | ✅ Completed|
+| 3    | Entity Framework Core 8.0          | ✅ Completed |
+| 4    | ASP.NET Core Web API               | ✅ Completed |
 | 5    | Microservices Architecture         | ⏳ Upcoming |
 | 6    | ReactJS                            | ⏳ Upcoming |
 | 7    | Advanced ReactJS                   | ⏳ Upcoming |
