@@ -45,10 +45,10 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 | Week | Skills                             | Status       |
 |------|------------------------------------|--------------|
 | 1    | Design Patterns, DSA               | ✅ Completed |
-| 2    | Advanced SQL, NUnit, Moq           | ✅ Completed|
+| 2    | Advanced SQL, NUnit, Moq           | ✅ Completed |
 | 3    | Entity Framework Core 8.0          | ✅ Completed |
 | 4    | ASP.NET Core Web API               | ✅ Completed |
-| 5    | Microservices Architecture         | ⏳ Upcoming |
+| 5    | Microservices Architecture         | ✅ Completed |
 | 6    | ReactJS                            | ⏳ Upcoming |
 | 7    | Advanced ReactJS                   | ⏳ Upcoming |
 | 8    | Git, DevOps, Docker, GenAI         | ⏳ Upcoming |
