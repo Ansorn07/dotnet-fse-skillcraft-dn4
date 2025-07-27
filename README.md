@@ -62,7 +62,7 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 ## ✍️ Author
 
 **A.S. Babji Rao**  
-🎓 3rd Year CSE Student  
+🎓 Final Year CSE Student  
 👨‍💻 GitHub: [Ansorn07](https://github.com/Ansorn07)  
 📌 Project-based learning | GenAI & Full Stack enthusiast  
 🪖 NCC Cadet | Ideation Team @ Enactus KIIT
