@@ -2,7 +2,7 @@
 
 # 💼 DotNet FSE Deep Skilling Program – Hands-on Repository
 
-.
+Welcome to my curated hands-on repository for the **DotNet Full Stack Engineering (FSE) Deep Skilling Program (DN 4.0)**. This repository is structured week-wise and includes all mandatory exercises covering a wide range of enterprise-grade development topics.
 
 ---
 ## 📚 Program Overview
