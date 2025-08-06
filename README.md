@@ -43,7 +43,7 @@ The DotNet FSE Deep Skilling Program is an 8-week industry-aligned learning path
 | 5    | Microservices Architecture         | ✅ Completed |
 | 6    | ReactJS                            | ✅ Completed |
 | 7    | Advanced ReactJS                   | ✅ Completed |
-| 8    | Git, DevOps, Docker, GenAI         |  |
+| 8    | Git, DevOps, Docker, GenAI         | ✅ Completed |
 
 ---
 
